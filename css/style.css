@@ -1,0 +1,32 @@
+/* Google Fonts Start*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+/* Google Fonts End */
+
+/* Color Settings Start */
+.text-myprimary {
+  color: #039ECF;
+}
+
+.text-mysecondary {
+  color: #28C0F0;
+}
+
+.bg-myprimary {
+  background: #039ECF;
+}
+
+.bg-mysecondary {
+  background: #28C0F0;
+}
+
+/* Color Settings End */
+
+/* Css Styles Start */
+footer {
+  background: #363636;
+}
+/* Css Styles End */
